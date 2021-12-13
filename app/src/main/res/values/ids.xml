@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittext" type="id" />
+    <item name="btn" type="id" />
+    <item name="imageView" type="id" />
+</resources>
